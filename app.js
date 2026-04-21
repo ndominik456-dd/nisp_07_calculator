@@ -21,3 +21,4 @@ function calculate() {
     }
 }
 //Funkcja odejmowania obsługiwana przez eval
+//Funkcje mnożenia i dzielenia
