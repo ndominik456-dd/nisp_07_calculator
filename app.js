@@ -20,3 +20,4 @@ function calculate() {
         setTimeout(clearDisplay, 1500);
     }
 }
+//Funkcja odejmowania obsługiwana przez eval
